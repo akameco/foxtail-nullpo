@@ -1,0 +1,26 @@
+{
+  "name": "foxtail-nullpo",
+  "version": "0.0.1",
+  "description": "A foxtail plugin that reponse to 'ぬるぽ'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "foxtail": "^0.0.8",
+    "babel": "^5.8.23",
+    "sinon": "^1.16.1",
+    "power-assert": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "foxtail"
+  ],
+  "author": "akameco",
+  "license": "MIT"
+}
