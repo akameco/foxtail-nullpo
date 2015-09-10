@@ -4,7 +4,7 @@
 ## USAGE
 
 ```
-npm install foxtail-nullpo
+npm install akameco/foxtail-nullpo.git
 ```
 
 Add foxtail-script.json
