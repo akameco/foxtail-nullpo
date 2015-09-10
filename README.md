@@ -13,6 +13,29 @@ Add foxtail-script.json
 ["foxtail-nullpo"]
 ```
 
+## Development
+
+```
+# watch
+npm run watch
+# build
+npm run build
+# test
+npm test
+```
+### How do I run test?
+Create file: `config.json` at the root of the plugin folder.
+like this.
+
+```config.json
+{
+  "consumer_key": "...",
+  "consumer_secret": "...",
+  "access_token": "...",
+  "access_token_secret": "..."
+}
+```
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
