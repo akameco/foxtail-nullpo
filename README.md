@@ -1,4 +1,6 @@
 # foxtail-nullpo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/foxtail-nullpo.svg)](https://greenkeeper.io/)
 'ぬるぽ'に即座に'ガッ'するfoxtailプラグイン
 
 ## USAGE
